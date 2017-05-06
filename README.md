@@ -1,1 +1,1 @@
-# Magarang-mobileapp-week1-Activity
+# lastname-mobileapp-week1
